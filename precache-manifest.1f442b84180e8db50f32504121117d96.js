@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4f0413838e282ba4e52040ca897c8969",
+    "revision": "179a439d4bebc47b7f9bfa750f9b0c25",
     "url": "/react-omdb/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-omdb/static/css/2.74189dbb.chunk.css"
   },
   {
-    "revision": "73453b6ae165b79eafc8",
+    "revision": "ff5866deeb02f65cd27c",
     "url": "/react-omdb/static/css/main.f4c5ba14.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-omdb/static/js/2.39693fc4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "73453b6ae165b79eafc8",
-    "url": "/react-omdb/static/js/main.dec02f74.chunk.js"
+    "revision": "ff5866deeb02f65cd27c",
+    "url": "/react-omdb/static/js/main.e3a2c947.chunk.js"
   },
   {
     "revision": "a1c5362cc1dc45160b0c",
