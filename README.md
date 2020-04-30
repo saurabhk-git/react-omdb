@@ -8,7 +8,7 @@ React JS Movie app listing using OMDB API
 1. Create a new React App.Open VS Code Terminal, goto project folder.
    >npm init react-app react-omdb
 
-2. "homepage": "http://saurabhk-git.github.io/react-omdb",
+2. "homepage": "https://saurabhk-git.github.io/react-omdb",
 
 3. "scripts": {
    //...
